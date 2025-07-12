@@ -1,0 +1,29 @@
+@font-face {
+  font-family: 'Montserrat';
+  src: url('./assets/fonts/Montserrat.woff2');
+  src: url('FileName.eot?#iefix') format('embedded-opentype'),
+     url('FileName.woff') format('woff'),
+     url('FileName.ttf') format('truetype'),
+     url('FileName.svg#Montserrat') format('svg');
+  font-style: normal;
+  font-weight: normal;
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html{
+  scroll-behavior: smooth;
+}
+body {
+  background-color: #101010;
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.align_center{
+  display: flex;
+  align-items: center;
+}
