@@ -1,12 +1,12 @@
 # 🎬 Movie Maniac
 
-**Movie Maniac** is a modern React.js web application that lets users search and browse movies using the iMDb API. It provides a sleek and responsive interface to view movie details such as title, release year, rating, and poster.
+**Movie Maniac** is a modern React.js web application that lets users search and browse movies using the TMDb API. It provides a sleek and responsive interface to view movie details such as title, release year, rating, and poster.
 
 ---
 
 ## 🚀 Features
 
-- 🔎 **Search Movies** by name using iMDb API  
+- 🔎 **Search Movies** by name using TMDb API  
 - 🎞️ **List View** of movies with responsive cards  
 - 🌟 **Movie Ratings** displayed using custom styles  
 - 🔥 **Trending Section** (based on filtering)  
@@ -19,7 +19,7 @@
 
 - **Frontend:** React.js (Vite)
 - **Styling:** CSS
-- **API:** [OMDb API](http://www.omdbapi.com/)
+- **API:** [TMDb API](http://www.tmdbapi.com/)
 - **Assets:** Custom icons & images
 - **Package Manager:** npm
 
